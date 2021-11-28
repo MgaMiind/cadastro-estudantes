@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-dados',
   templateUrl: './dados.component.html',
@@ -9,7 +10,6 @@ export class DadosComponent implements OnInit {
 
   constructor() {}
 
-  ngOnInit(): void {
-  }
+  ngOnInit() {}
 
 }
